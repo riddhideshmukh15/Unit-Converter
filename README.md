@@ -69,4 +69,4 @@ While making this project, I practiced:
 
 **Riddhi Deshmukh**
 
-This is one of my beginner Python projects created while learning Python.
+
