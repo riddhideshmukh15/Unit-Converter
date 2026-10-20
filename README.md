@@ -26,5 +26,3 @@ The Power Calculator is a beginner-friendly Python project that performs mathema
 ## 👩‍💻 Author
 Riddhi Deshmukh
 
-## 🎯 Purpose
-This project was created to practise Python programming fundamentals and improve problem-solving skills through a simple mathematical calculator.
