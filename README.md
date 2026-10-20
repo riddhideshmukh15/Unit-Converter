@@ -1,72 +1,30 @@
-# Unit Converter 🧮
+# 🔢 Power Calculator using Python
 
-A simple **Python Unit Converter** project for beginners.
-It allows users to convert different units using a menu-driven program.
+## 📌 About the Project
+The Power Calculator is a beginner-friendly Python project that performs mathematical operations on a number. It allows users to calculate the square, cube, fourth power, and square root of a number through a simple menu.
 
 ## ✨ Features
-
-* 📏 Length conversion
-
-  * Kilometers to Meters
-  * Meters to Kilometers
-  * Centimeters to Meters
-* ⚖️ Weight conversion
-
-  * Kilograms to Grams
-  * Grams to Kilograms
-* 🌡️ Temperature conversion
-
-  * Celsius to Fahrenheit
-  * Fahrenheit to Celsius
-* 🔄 Menu-based program
-* ❌ Exit option
+- Calculate the square of a number
+- Calculate the cube of a number
+- Calculate the fourth power of a number
+- Calculate the square root of a number
+- Handle invalid inputs
+- Repeat calculations using a loop
+- Exit the program whenever needed
 
 ## 🛠️ Technologies Used
+- Python
 
-* Python
-
-## ▶️ How to Run
-
-1. Make sure Python is installed.
-2. Download or clone this repository.
-3. Open the project folder in Command Prompt.
-4. Run:
-
-```bash
-python unit_converter.py
-```
-
-## 📌 Example
-
-```text
-===== UNIT CONVERTER =====
-
-1. Length
-2. Weight
-3. Temperature
-4. Exit
-
-Enter your choice: 1
-Enter option: 1
-Enter value: 5
-
-Result: 5000 meters
-```
-
-## 📚 What I Learned
-
-While making this project, I practiced:
-
-* Variables
-* `input()`
-* `float()`
-* `if-elif-else`
-* `while` loops
-* Basic mathematical operations
-* Menu-driven programs
+## 📚 Concepts Learned
+- Variables and data types
+- User input using `input()`
+- Mathematical operators
+- Conditional statements (`if-elif-else`)
+- Loops (`while`)
+- Exception handling (`try-except`)
 
 ## 👩‍💻 Author
+Riddhi Deshmukh
 
-**Riddhi Deshmukh**
-
-
+## 🎯 Purpose
+This project was created to practise Python programming fundamentals and improve problem-solving skills through a simple mathematical calculator.
